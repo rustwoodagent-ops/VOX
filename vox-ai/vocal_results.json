@@ -1,0 +1,327 @@
+{
+  "analysis_metadata": {
+    "original_file": "test_song.m4a",
+    "vocals_file": "/tmp/tmp70a09fsx.wav",
+    "vocals_extracted": false,
+    "demucs_model": null,
+    "sample_rate": 44100,
+    "duration_seconds": 63.44,
+    "total_samples": 2797881,
+    "analysis_version": "2.0-note-aware"
+  },
+  "note_segmentation": {
+    "total_notes_detected": 36,
+    "sustained_notes": 12,
+    "ornamented_notes": 24,
+    "notes": [
+      {
+        "start_time": 0.0,
+        "end_time": 0.7778684807256235,
+        "duration": 0.7778684807256235,
+        "mean_pitch_hz": 95.20902171067573,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 0.7778684807256235,
+        "end_time": 2.36843537414966,
+        "duration": 1.5905668934240365,
+        "mean_pitch_hz": 141.01384901128017,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 2.36843537414966,
+        "end_time": 3.959002267573696,
+        "duration": 1.590566893424036,
+        "mean_pitch_hz": 159.19961611844158,
+        "type": "sustained"
+      },
+      {
+        "start_time": 5.491519274376417,
+        "end_time": 6.350657596371882,
+        "duration": 0.8591383219954647,
+        "mean_pitch_hz": 134.6458897635121,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 6.373877551020408,
+        "end_time": 7.523265306122449,
+        "duration": 1.1493877551020404,
+        "mean_pitch_hz": 147.68297530582896,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 7.534875283446712,
+        "end_time": 8.161814058956915,
+        "duration": 0.6269387755102036,
+        "mean_pitch_hz": 98.56656061031477,
+        "type": "sustained"
+      },
+      {
+        "start_time": 8.161814058956915,
+        "end_time": 8.695873015873016,
+        "duration": 0.5340589569161001,
+        "mean_pitch_hz": 111.92276613129549,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 8.695873015873016,
+        "end_time": 9.961360544217687,
+        "duration": 1.2654875283446714,
+        "mean_pitch_hz": 122.05264192746294,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 10.251609977324263,
+        "end_time": 11.261678004535147,
+        "duration": 1.0100680272108846,
+        "mean_pitch_hz": 148.5384940785009,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 11.34294784580499,
+        "end_time": 12.294965986394558,
+        "duration": 0.9520181405895691,
+        "mean_pitch_hz": 133.87038650376502,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 12.411065759637188,
+        "end_time": 13.049614512471654,
+        "duration": 0.6385487528344669,
+        "mean_pitch_hz": 148.5384940785009,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 13.072834467120181,
+        "end_time": 13.908752834467121,
+        "duration": 0.8359183673469399,
+        "mean_pitch_hz": 130.05935646298627,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 13.908752834467121,
+        "end_time": 14.849160997732426,
+        "duration": 0.940408163265305,
+        "mean_pitch_hz": 142.65235101161107,
+        "type": "sustained"
+      },
+      {
+        "start_time": 14.849160997732426,
+        "end_time": 15.719909297052155,
+        "duration": 0.8707482993197289,
+        "mean_pitch_hz": 147.68297530582896,
+        "type": "sustained"
+      },
+      {
+        "start_time": 16.01015873015873,
+        "end_time": 17.147936507936507,
+        "duration": 1.137777777777778,
+        "mean_pitch_hz": 143.47872767421205,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 17.426575963718822,
+        "end_time": 18.216054421768707,
+        "duration": 0.789478458049885,
+        "mean_pitch_hz": 131.5705733911144,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 18.216054421768707,
+        "end_time": 18.866213151927436,
+        "duration": 0.6501587301587293,
+        "mean_pitch_hz": 145.9866916572425,
+        "type": "sustained"
+      },
+      {
+        "start_time": 18.866213151927436,
+        "end_time": 19.49315192743764,
+        "duration": 0.6269387755102045,
+        "mean_pitch_hz": 165.76853496220332,
+        "type": "sustained"
+      },
+      {
+        "start_time": 19.60925170068027,
+        "end_time": 20.143310657596373,
+        "duration": 0.5340589569161018,
+        "mean_pitch_hz": 119.26495573315601,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 20.143310657596373,
+        "end_time": 20.97922902494331,
+        "duration": 0.8359183673469381,
+        "mean_pitch_hz": 146.8323839587038,
+        "type": "sustained"
+      },
+      {
+        "start_time": 20.97922902494331,
+        "end_time": 22.627845804988663,
+        "duration": 1.6486167800453515,
+        "mean_pitch_hz": 139.3941668115768,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 23.417324263038548,
+        "end_time": 24.322902494331064,
+        "duration": 0.905578231292516,
+        "mean_pitch_hz": 145.9866916572425,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 24.508662131519273,
+        "end_time": 26.958367346938775,
+        "duration": 2.4497052154195025,
+        "mean_pitch_hz": 147.68297530582896,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 27.074467120181406,
+        "end_time": 27.58530612244898,
+        "duration": 0.5108390022675735,
+        "mean_pitch_hz": 147.68297530582896,
+        "type": "sustained"
+      },
+      {
+        "start_time": 27.58530612244898,
+        "end_time": 28.781133786848073,
+        "duration": 1.1958276643990935,
+        "mean_pitch_hz": 161.0494265540188,
+        "type": "sustained"
+      },
+      {
+        "start_time": 28.781133786848073,
+        "end_time": 31.451428571428572,
+        "duration": 2.6702947845804985,
+        "mean_pitch_hz": 137.79308824865404,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 31.463038548752834,
+        "end_time": 36.22312925170068,
+        "duration": 4.760090702947849,
+        "mean_pitch_hz": 85.3129619008554,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 36.22312925170068,
+        "end_time": 41.43600907029479,
+        "duration": 5.212879818594104,
+        "mean_pitch_hz": 80.9911881955289,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 41.43600907029479,
+        "end_time": 43.165895691609975,
+        "duration": 1.7298866213151882,
+        "mean_pitch_hz": 73.4161919793519,
+        "type": "sustained"
+      },
+      {
+        "start_time": 43.165895691609975,
+        "end_time": 46.49795918367347,
+        "duration": 3.3320634920634973,
+        "mean_pitch_hz": 96.50978183674286,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 46.49795918367347,
+        "end_time": 51.420589569160995,
+        "duration": 4.922630385487523,
+        "mean_pitch_hz": 103.22817963382575,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 51.420589569160995,
+        "end_time": 54.868752834467124,
+        "duration": 3.4481632653061283,
+        "mean_pitch_hz": 73.84148765291448,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 54.95002267573696,
+        "end_time": 56.59863945578231,
+        "duration": 1.6486167800453515,
+        "mean_pitch_hz": 139.7979179083478,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 57.78285714285714,
+        "end_time": 60.6853514739229,
+        "duration": 2.9024943310657605,
+        "mean_pitch_hz": 95.20902171067573,
+        "type": "ornamented"
+      },
+      {
+        "start_time": 60.6853514739229,
+        "end_time": 62.299138321995464,
+        "duration": 1.6137868480725643,
+        "mean_pitch_hz": 73.4161919793519,
+        "type": "sustained"
+      },
+      {
+        "start_time": 62.299138321995464,
+        "end_time": 63.448526077097505,
+        "duration": 1.1493877551020404,
+        "mean_pitch_hz": 69.6970834057884,
+        "type": "sustained"
+      }
+    ]
+  },
+  "sustained_note_metrics": {
+    "sustained_regions_found": 57,
+    "regions_analyzed": 52,
+    "total_sustained_duration": 10.4,
+    "sufficient_data": true,
+    "jitter_local_percent": 2.5849,
+    "shimmer_local_percent": 16.7606,
+    "hnr_db": 6.25,
+    "caveats": [
+      "Based on 52 sustained regions totaling 10.40s",
+      "Metrics calculated only on stable note portions (>200ms, <30 cents variation)"
+    ]
+  },
+  "vibrato_summary": {
+    "vibrato_detected_anywhere": true,
+    "notes_analyzed": 36,
+    "notes_with_vibrato": 10,
+    "rate_mean_hz": 6.05,
+    "rate_std_hz": 0.59,
+    "extent_mean_cents": 34.52,
+    "extent_std_cents": 10.22,
+    "regularity_notes": [
+      0.13153341044116407,
+      0.0883477559825046,
+      0.12923261824735058,
+      0.2222222222222223,
+      0.12000000000000001,
+      0.10364452469860642,
+      0.1947871842049001,
+      0.1740305761290205,
+      0.09354143466934851
+    ],
+    "caveat": "Based on notes meeting vibrato criteria only"
+  },
+  "spectral_flatness": {
+    "spectral_flatness_mean": 0.0007,
+    "spectral_flatness_std": 0.0122,
+    "interpretation": "Very tonal - clean vocal production",
+    "description": "0=tonal/pitched, 1=noisy/flat (indicator of grit/distortion)"
+  },
+  "suppressed_metrics": [],
+  "caveats": [
+    "This analysis uses note-aware processing.",
+    "Jitter and shimmer are calculated only on sustained note regions.",
+    "Vibrato is analyzed per-note and aggregated.",
+    "These metrics describe acoustic characteristics, not vocal health or pathology.",
+    "Results depend on pitch tracking accuracy and note segmentation."
+  ],
+  "raw_data": {
+    "audio_waveform_shape": [
+      2797881
+    ],
+    "audio_waveform_mean": 8e-06,
+    "audio_waveform_std": 0.115009,
+    "audio_waveform_max": 0.946915
+  }
+}
